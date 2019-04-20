@@ -1,1 +1,2 @@
-# gm_l10n-italy
+Odoo 10 Enterprise
+Odoo italian localization setup for odoo.sh
